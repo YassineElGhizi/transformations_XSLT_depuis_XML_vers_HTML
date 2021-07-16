@@ -1,0 +1,51 @@
+.extendedColumn
+{
+    width: 35vw;
+}
+
+.compressedHeight
+{
+    height: 30px !important;
+    margin-top: 0px;
+}
+
+.myBgColor
+{
+    background-color : #5C6069;
+    color: #DEE0DC;
+    text-align: left;
+    padding-left: 1vw;
+}
+
+.bg1
+{
+    background-color : #D3D3D3;
+    color: #2B2F32;
+    padding-left: 1vw;
+}
+
+.bg2
+{
+    background-color : #CACACA;
+    color: #2B2F32;
+    padding-left: 1vw;
+}
+
+table {
+    border-spacing: 0px !important;
+}
+
+.data
+{
+    color: #6A6D74 !important;
+}
+
+body
+{
+    font-family: "Times New Roman", Times, serif;
+}
+
+.center 
+{
+    margin-left: 20%;
+}

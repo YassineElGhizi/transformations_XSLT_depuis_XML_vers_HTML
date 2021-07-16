@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players>
+	<player>
+		<name>L.Messi</name>
+		<age>31</age>
+		<team>Barecelona</team>
+		<league>Liga</league>
+		<picture>./pictures/messi.png</picture>
+		<rank>2</rank>
+	</player>
+	<player>
+		<name>C.Ronaldo</name>
+		<age>34</age>
+		<team>Juventus</team>
+		<league>Serie A</league>
+		<picture>./pictures/cr7.png</picture>
+		<rank>1</rank>
+	</player>
+	<player>
+		<name>K.Benzema</name>
+		<age>31</age>
+		<team>R.Madrid</team>
+		<league>Liga</league>
+		<picture>./pictures/KBenz.png</picture>
+		<rank>5</rank>
+	</player>
+	<player>
+		<name>P.Pogba</name>
+		<age>25</age>
+		<team>Manchester United</team>
+		<league>Premier league</league>
+		<picture>./pictures/pogba.png</picture>
+		<rank>4</rank>
+	</player>
+	<player>
+		<name>J.Neymar</name>
+		<age>27</age>
+		<team>Paris Saint-Germain</team>
+		<league>Ligue 1</league>
+		<picture>./pictures/neymar.png</picture>
+		<rank>3</rank>
+	</player>
+</players>
